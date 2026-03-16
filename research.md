@@ -4,10 +4,21 @@ title: Research
 permalink: /research/
 ---
 
-## Selected Research
+This section will contain equity research reports and valuation work on publicly traded companies.
 
-### [UnitedHealth Group (UNH)](/reports/unh/)
-Fundamental company analysis, valuation, and recommendation.
+Each report will include:
 
-### [PepsiCo (PEP)](/reports/pepsico/)
-Company overview, valuation work, and investment view.
+- Company overview and business model analysis  
+- Financial statement analysis  
+- Key operating drivers  
+- Valuation using discounted cash flow (DCF) and comparable company analysis  
+
+## Upcoming Coverage
+
+Initial research will focus on companies across sectors such as:
+
+- Healthcare
+- Consumer staples
+- Technology
+
+Reports will be added as they are completed.
