@@ -3,17 +3,16 @@ layout: home
 title: Richard Lee | Equity Research & Valuation
 ---
 
-FP&A professional building equity research and valuation work focused on fundamental analysis, financial modeling, and investment recommendations.
+FP&A analyst building equity research and valuation work derived from financial analysis and modeling.
 
-## Featured Reports
+## About This Site
 
-- [UnitedHealth Group (UNH)](/reports/unh/)
-- [PepsiCo (PEP)](/reports/pepsico/)
-- [Coming Soon](/research/)
+This site will host:
 
-## What This Site Includes
+- Equity research reports on public companies  
+- Valuation work including DCF and comparable company analysis  
+- Financial modeling projects  
 
-- Equity research reports
-- Valuation work
-- Financial models
-- Investment recommendations
+## Research (Coming Soon)
+
+Company research reports and valuation analyses will be added as they are completed.
